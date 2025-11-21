@@ -51783,12 +51783,12 @@ export const bangs = [
   },
   {
     c: "Entertainment",
-    d: "hypixel-skyblock.fandom.com",
+    d: "wiki.hypixel.net",
     r: 40,
     s: "Hypixel Skyblock Wiki",
     sc: "Games (Minecraft)",
     t: "hysb",
-    u: "https://hypixel-skyblock.fandom.com/wiki/Special:Search?query={{{s}}}",
+    u: "https://wiki.hypixel.net/?query={{{s}}}",
   },
   {
     c: "Entertainment",
@@ -60887,12 +60887,12 @@ export const bangs = [
   },
   {
     c: "Research",
-    d: "lego.fandom.com",
+    d: "en.brickimedia.org",
     r: 0,
     s: "Brickipedia",
     sc: "Topical",
     t: "legowiki",
-    u: "https://lego.fandom.com/search?query={{{s}}}",
+    u: "https://en.brickimedia.org/wiki/Main_Page?query={{{s}}}",
   },
   {
     c: "Research",
@@ -89602,12 +89602,12 @@ export const bangs = [
   },
   {
     c: "Entertainment",
-    d: "riskofrain2.fandom.com",
+    d: "riskofrain2.wiki.gg",
     r: 4,
     s: "Risk of Rain 2 Wiki",
     sc: "Games (specific)",
     t: "ror2",
-    u: "https://riskofrain2.fandom.com/wiki/Special:Search?query={{{s}}}",
+    u: "https://riskofrain2.wiki.gg/?search={{{s}}}",
   },
   {
     c: "Tech",
@@ -99347,12 +99347,12 @@ export const bangs = [
   },
   {
     c: "Entertainment",
-    d: "slay-the-spire.fandom.com",
+    d: "slaythespire.wiki.gg",
     r: 0,
-    s: "Slay the spire Wiki | Fandom powered by Wikia",
+    s: "Slay the Spire Wiki",
     sc: "Games (specific)",
     t: "stsw",
-    u: "https://slay-the-spire.fandom.com/wiki/Special:Search?query={{{s}}}",
+    u: "https://slaythespire.wiki.gg/?search={{{s}}}",
   },
   {
     c: "Research",
